@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`queries feed 1`] = `
+Object {
+  "data": Object {
+    "feed": Array [
+      Object {
+        "createdAt": "12345839",
+        "id": "1",
+        "likes": 20,
+        "message": "hello",
+        "views": 300,
+      },
+    ],
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;

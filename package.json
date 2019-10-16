@@ -1,0 +1,26 @@
+{
+  "name": "adv-gqlv2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Scott Moss <willscottmoss@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js --ignore 'src/db/db.json'",
+    "test": "jest tests"
+  },
+  "devDependencies": {
+    "apollo-server-testing": "^2.9.6",
+    "jest": "^24.9.0",
+    "mdx-deck": "^3.0.13",
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "@mdx-deck/themes": "^3.0.8",
+    "apollo-server": "^2.9.6",
+    "date-fns": "^2.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "lowdb": "^1.0.0",
+    "nanoid": "^2.1.3"
+  }
+}

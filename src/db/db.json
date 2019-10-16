@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "email": "moose@moose.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1571202045738,
+      "id": "CDDDB9WxAoO6sdRIm7jlr"
+    },
+    {
+      "email": "member@member.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1571205141018,
+      "id": "XUYFfLuWeJWrwPr4TRajF"
+    }
+  ],
+  "posts": [
+    {
+      "message": "halsdasdfasdff",
+      "author": "CDDDB9WxAoO6sdRIm7jlr",
+      "createdAt": 1571202992350,
+      "id": "9K4sPrS85aIHr5wOZ_8Zh"
+    },
+    {
+      "message": "halsdasdf asdkfjdsfasdfasdff",
+      "author": "CDDDB9WxAoO6sdRIm7jlr",
+      "createdAt": 1571202998970,
+      "id": "swqayRPjSA2BlfnsND6Xd"
+    },
+    {
+      "message": "halsdasdf asdkfjdsf asdf asdasdfasdff",
+      "author": "CDDDB9WxAoO6sdRIm7jlr",
+      "createdAt": 1571205095389,
+      "id": "mnDzY_dwoZ41Yz-fmSM_k"
+    },
+    {
+      "message": "new post who dis",
+      "author": "CDDDB9WxAoO6sdRIm7jlr",
+      "createdAt": 1571207117764,
+      "id": "hHLdbHrMWC2VIr5OgiHq6"
+    },
+    {
+      "message": "new post who dis another post",
+      "author": "CDDDB9WxAoO6sdRIm7jlr",
+      "createdAt": 1571207130170,
+      "id": "afE2nQnxbAt8sTdFMrr7t"
+    },
+    {
+      "message": "halsdasdf asdkfjdsf asdf asdasdfasdff",
+      "author": "CDDDB9WxAoO6sdRIm7jlr",
+      "createdAt": 1571209882804,
+      "id": "jFkcIzan5tNttNKDs5lmn"
+    },
+    {
+      "message": "halsdasdf asdkfjdsf asdf asdasdfasdff",
+      "author": "CDDDB9WxAoO6sdRIm7jlr",
+      "createdAt": 1571209888629,
+      "id": "Ibj16UbBKN0rHppoJNbch"
+    }
+  ],
+  "settings": [
+    {
+      "user": "XUYFfLuWeJWrwPr4TRajF",
+      "theme": "DARK",
+      "emailNotifications": true,
+      "pushNotifications": true,
+      "createdAt": 1571205141021,
+      "id": "1rokGsQR1KC5gPf6L4ap3"
+    }
+  ]
+}
