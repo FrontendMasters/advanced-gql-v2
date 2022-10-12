@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@mdx-deck/themes": "^3.0.8",
-    "apollo-server": "^2.9.6",
+    "apollo-server": "^2.25.4",
     "date-fns": "^2.5.0",
     "jsonwebtoken": "^8.5.1",
     "lowdb": "^1.0.0",
